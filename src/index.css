@@ -1,0 +1,89 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  body {
+    @apply bg-background text-foreground selection:bg-cosmic-light/20 selection:text-foreground;
+    background: linear-gradient(135deg, #F8F9FD 0%, #EEF2FF 100%);
+    min-height: 100vh;
+  }
+
+  * {
+    @apply border-gray-200;
+  }
+}
+
+/* Enhanced cosmic glass effect */
+.cosmic-glass {
+  @apply bg-white/80 backdrop-blur-xl border border-white shadow-lg hover:shadow-xl transition-shadow duration-300;
+  box-shadow: 0 4px 20px rgba(79, 70, 229, 0.1);
+}
+
+/* Card hover effect */
+.hover-card {
+  @apply transition-all duration-300 hover:-translate-y-1 hover:shadow-lg;
+}
+
+/* Enhanced scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-cosmic-light/5 rounded-full;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-cosmic-light/30 rounded-full hover:bg-cosmic-light/40 transition-colors;
+}
+
+/* Enhanced text glow */
+.text-glow {
+  text-shadow: 0 0 20px rgba(79, 70, 229, 0.2);
+}
+
+/* Card shine effect */
+.card-shine {
+  position: relative;
+  overflow: hidden;
+}
+
+.card-shine::after {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(
+    45deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.1) 45%,
+    rgba(255, 255, 255, 0.2) 50%,
+    rgba(255, 255, 255, 0.1) 55%,
+    transparent 100%
+  );
+  transform: rotate(30deg);
+  animation: shine 6s infinite;
+}
+
+@keyframes shine {
+  0% { transform: translateX(-100%) rotate(30deg); }
+  100% { transform: translateX(100%) rotate(30deg); }
+}
+
+/* Navigation link hover effect */
+.nav-link {
+  @apply relative after:content-[''] after:absolute after:w-full after:scale-x-0 after:h-0.5 
+         after:bottom-0 after:left-0 after:bg-cosmic after:origin-bottom-right after:transition-transform;
+}
+
+.nav-link:hover::after {
+  @apply scale-x-100 origin-bottom-left;
+}
