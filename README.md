@@ -1,8 +1,11 @@
-# Welcome to your keshav project
+# Welcome to  Admin Panel project
 
-## Project info
+ 
+## Project info: (How can I login for demo)
+ email: user@astral.com
+    password: user123
 
-**URL**: 
+
 
 ## How can I edit this code?
 
