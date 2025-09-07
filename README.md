@@ -1,9 +1,8 @@
 Here is some snap of the Admin-Panel 
 
 <img width="1902" height="920" alt="Screenshot 2025-09-07 225009" src="https://github.com/user-attachments/assets/489caa4d-9440-4d3e-abba-2948f6e870f4" />
-<img width="1902" height="920" alt="Screenshot 2025-09-07 225009" src="https://github.com/user-attachments/assets/2f463ca9-d34f-4912-8063-83c29b472899" />
+<img width="1826" height="882" alt="Screenshot 2025-09-07 225517" src="https://github.com/user-attachments/assets/5c6a4f90-4814-4995-8291-d4df9a9576a8" />
 
-<img width="565" height="568" alt="Screenshot 2025-09-07 225024" src="https://github.com/user-attachments/assets/ed726b5a-0b60-4efb-b29f-2cac3241c636" />
 
 <img width="1805" height="913" alt="Screenshot 2025-09-07 225031" src="https://github.com/user-attachments/assets/9b11eeb0-784e-4486-a1a6-bcb4cc90747b" />
 
