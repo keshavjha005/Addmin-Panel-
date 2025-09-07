@@ -1,3 +1,24 @@
+Here is some snap of the Admin-Panel 
+
+<img width="1902" height="920" alt="Screenshot 2025-09-07 225009" src="https://github.com/user-attachments/assets/489caa4d-9440-4d3e-abba-2948f6e870f4" />
+<img width="1902" height="920" alt="Screenshot 2025-09-07 225009" src="https://github.com/user-attachments/assets/2f463ca9-d34f-4912-8063-83c29b472899" />
+
+<img width="565" height="568" alt="Screenshot 2025-09-07 225024" src="https://github.com/user-attachments/assets/ed726b5a-0b60-4efb-b29f-2cac3241c636" />
+
+<img width="1805" height="913" alt="Screenshot 2025-09-07 225031" src="https://github.com/user-attachments/assets/9b11eeb0-784e-4486-a1a6-bcb4cc90747b" />
+
+<img width="1909" height="916" alt="Screenshot 2025-09-07 225130" src="https://github.com/user-attachments/assets/7266ae2b-ebd7-4b77-9ee4-e35f95b2748e" />
+
+<img width="1887" height="896" alt="Screenshot 2025-09-07 225151" src="https://github.com/user-attachments/assets/5f10feb7-8314-46da-86b0-364fde71c276" />
+
+
+
+<img width="1912" height="915" alt="Screenshot 2025-09-07 225202" src="https://github.com/user-attachments/assets/2e282776-8b48-4ec5-8f49-385c5eeeb29b" />
+
+<img width="1918" height="924" alt="Screenshot 2025-09-07 225213" src="https://github.com/user-attachments/assets/3494a4e9-3183-46bc-b344-6a6149f00a4a" />
+
+<img width="1911" height="910" alt="image" src="https://github.com/user-attachments/assets/b002dc85-5fb8-4e77-9ddc-317a91105b1e" />
+
 # Welcome to  Admin Panel project
 
  
